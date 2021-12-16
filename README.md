@@ -4,8 +4,9 @@
 
  ## Languages
 <div style="float: left; pointer-events: none;">
- <a href="#">
-  <img style="pointer-events: none; cursor: default;" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5">
+ <a href="#" style="pointer-events: none;>
+  <img  cursor: default;" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5">
+ </a>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
@@ -13,7 +14,7 @@
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" alt="C#"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
- </a>
+
 </div>
 
 <!-- ## Tools
